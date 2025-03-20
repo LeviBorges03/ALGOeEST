@@ -1,0 +1,1 @@
+print=input("Bem vindo ao mundo Python")
